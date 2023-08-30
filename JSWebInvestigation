@@ -1,0 +1,19 @@
+   1. Facebook:
+        Like Button: When you click the "Like" button on a post or comment, JavaScript triggers an action to update the user interface to reflect the new interaction. It might also send an asynchronous request to the server to record the action.
+        Infinite Scroll: Facebook uses JavaScript to implement infinite scrolling in its news feed. As you scroll down, new content loads automatically without having to navigate to a new page.
+
+   2. Google Maps:
+        Interactive Map: The entire Google Maps interface is built using JavaScript. It allows you to interact with the map, zoom in/out, and click on locations to get more information.
+        Autocomplete Search: The search bar uses JavaScript to provide real-time autocomplete suggestions as you type, making it easier to find locations.
+
+   3. Amazon:
+        Product Recommendations: Amazon employs JavaScript to display personalized product recommendations based on your browsing and purchase history. These recommendations are updated dynamically as you browse the site.
+        Add to Cart and Cart Updates: When you add an item to your cart, JavaScript updates the cart icon to show the updated item count. It also allows you to view and modify the contents of your cart without leaving the page.
+
+   4. YouTube:
+        Video Playback: JavaScript is responsible for controlling video playback on YouTube. It enables functions like play, pause, seek, and adjusting the volume.
+        Comments and Interaction: When you view and interact with comments on a video, JavaScript is used to display comments, load more comments as you scroll, and submit your own comments.
+
+   5. Twitter:
+        Tweet and Retweet: JavaScript powers the "Tweet" and "Retweet" buttons, enabling real-time updates when you tweet or retweet something. It might also handle features like adding images to a tweet.
+        Notifications: When you receive a new notification, JavaScript ensures that you're alerted instantly and can interact with the notification dropdown.
